@@ -1,3 +1,6 @@
+
+🚀 Built as a real-world business analytics solution to help companies track performance and make data-driven decisions.
+
 # 📊 Sales Analytics Dashboard
 
 An interactive data dashboard built using Python and Streamlit to analyze sales performance across regions, products, and time.

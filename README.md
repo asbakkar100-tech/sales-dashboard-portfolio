@@ -24,6 +24,11 @@ An interactive data dashboard built using Python and Streamlit to analyze sales 
 ## 📸 Dashboard Preview
 
 ![Dashboard](screenshots/dashboard.png)
+## 📸 Dashboard Preview
+
+![Dashboard](screenshots/Dashboard.png)
+![Charts](screenshots/Graphs_A.png)
+![Insight](screenshots/Insight.png)
 
 ---
 

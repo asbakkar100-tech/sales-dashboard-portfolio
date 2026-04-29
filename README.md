@@ -33,6 +33,13 @@ An interactive data dashboard built using Python and Streamlit to analyze sales 
 ![Charts](screenshots/Graphs_A.png)
 ![Insight](screenshots/Insight.png)
 
+## Business Value
+
+This dashboard enables businesses to:
+- Identify top-performing products and regions
+- Monitor revenue trends over time
+- Make informed strategic decisions
+- Improve operational efficiency
 ---
 
 ## ▶️ How to Run
